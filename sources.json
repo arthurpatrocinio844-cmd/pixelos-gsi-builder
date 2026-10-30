@@ -9,8 +9,8 @@
   },
   "donor": {
     "filename": "PixelOS_alioth-17.0-20260922-1500.zip",
-    "url": "https://download.pixelos.net/seventeen/alioth/PixelOS_alioth-17.0-20260922-1500.zip",
-    "sha256": "6fd8fa1753171eb5ab1d46cbcd9cf4df2c29b282a17b077f3315b8bfddcd64b0",
+    "url": "https://dl.google.com/dl/android/aosp/yogi-ota-cd1a.261005.003.b1-7d7d9988.zip?hl=pt-br",
+    "sha256": "7d7d9988da0e003af0d9d604ce3bc8f29ca49f497c994fc4ca721bfe791b0eb0",
     "size": 2628867768,
     "metadata_url": "https://github.com/PixelOS-AOSP/official_devices/blob/seventeen/API/updater/alioth.json",
     "mirrors": [
