@@ -14,8 +14,8 @@
     "size": 2628867768,
     "metadata_url": "https://github.com/PixelOS-AOSP/official_devices/blob/seventeen/API/updater/alioth.json",
     "mirrors": [
-      "https://downloads.sourceforge.net/project/pixelos-releases/seventeen/alioth/PixelOS_alioth-17.0-20260922-1500.zip",
-      "https://phoenixnap.dl.sourceforge.net/project/pixelos-releases/seventeen/alioth/PixelOS_alioth-17.0-20260922-1500.zip"
+      "https://dl.google.com/dl/android/aosp/yogi-ota-cd1a.261005.003.b1-7d7d9988.zip?hl=pt-br",
+      "https://dl.google.com/dl/android/aosp/yogi-ota-cd1a.261005.003.b1-7d7d9988.zip?hl=pt-br"
     ]
   }
 }
