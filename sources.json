@@ -6,15 +6,13 @@
   "treble_app": {
     "url": "https://github.com/TrebleDroid/treble_app.git",
     "commit": "96acf04e74d42a08cc841688686ad3c5d8bd5790"
-  },
+    },
   "donor": {
     "filename": "PixelOS_alioth-17.0-20260922-1500.zip",
     "url": "https://dl.google.com/dl/android/aosp/yogi-ota-cd1a.261005.003.b1-7d7d9988.zip?hl=pt-br",
-    "sha256": "7d7d9988da0e003af0d9d604ce3bc8f29ca49f497c994fc4ca721bfe791b0eb0",
-    "size": 2628867768,
-    "metadata_url": "https://github.com/PixelOS-AOSP/official_devices/blob/seventeen/API/updater/alioth.json",
+    "sha256": "b725b87198bb9ff9792446a6fcd8bfaee5df3586cdb18f0a0d4c9888998efbf8",
+    "size": 3815124859,
     "mirrors": [
-      "https://dl.google.com/dl/android/aosp/yogi-ota-cd1a.261005.003.b1-7d7d9988.zip?hl=pt-br",
       "https://dl.google.com/dl/android/aosp/yogi-ota-cd1a.261005.003.b1-7d7d9988.zip?hl=pt-br"
     ]
   }
